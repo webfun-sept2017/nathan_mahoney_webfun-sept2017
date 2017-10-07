@@ -1,0 +1,50 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper {
+	width: 960px;
+	padding: 10px 108px 10px 180px;
+}
+#left_column, #right_column {
+	width: 450px;
+	display: inline-block;
+}
+#left_column form {
+	margin-right: 100px;
+}
+#left_column form input {
+	width: 150px;
+}
+.first_last {
+	width: 140px;
+	padding: 5px;
+	display: inline-block;
+	text-align: right;
+}
+.descrip {
+	margin: 50px 0px 0px 72px;
+}
+.descrip label {
+	padding: 5px;
+}
+#description_box {
+	height: 40px;
+	display: block;
+}
+#vcard {	
+	width: 200px;
+	height: 100px;
+	margin-top: 10px;
+	border: 1px solid black;
+}
+#vcard h3, p {
+	padding: 15px;
+	text-align: center;
+}
+#flip {
+	display: none;
+}
+textarea {
+	margin: 15px 0px;
+}
