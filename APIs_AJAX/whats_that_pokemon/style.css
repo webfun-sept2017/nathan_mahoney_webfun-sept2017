@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper {
+	width: 960px;
+	margin: auto;
+}
+.poke_pics {
+	width: 700px;
+	display: inline-block;
+}
+.pokedex {
+	color: black;
+	height: 400px;
+	width: 190px;
+	border: 20px solid red;
+	display: inline-block;
+	vertical-align: top;
+
+}
+.pokedex div, .pokedex h2, .pokedex h4, .pokedex li {
+	padding: 5px 0px 0px 35px;
+}
+.pokedex li {
+	list-style: none;
+}
+.pokedex h2 {
+	margin-top: 25px;
+}
